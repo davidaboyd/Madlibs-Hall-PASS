@@ -1,0 +1,9 @@
+#MADLIBS Hall pass
+#Coded in pyhton
+
+
+name=input("Please enter your name: ")
+place=input("Please enter where you are going: ")
+teacher=input("Please enter your teachers name: ")
+
+print(name + " is authorized to be at " + place + " instead of "+ teacher + "class.")
